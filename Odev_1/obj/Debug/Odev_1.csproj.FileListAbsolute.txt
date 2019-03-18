@@ -1,0 +1,5 @@
+C:\Users\bugra\Desktop\Birtanedaha\odev-1-bugramogol-master\Odev_1\bin\Debug\Odev_1.exe
+C:\Users\bugra\Desktop\Birtanedaha\odev-1-bugramogol-master\Odev_1\bin\Debug\Odev_1.pdb
+C:\Users\bugra\Desktop\Birtanedaha\odev-1-bugramogol-master\Odev_1\obj\Debug\Odev_1.exe
+C:\Users\bugra\Desktop\Birtanedaha\odev-1-bugramogol-master\Odev_1\obj\Debug\Odev_1.pdb
+C:\Users\bugra\Desktop\Birtanedaha\odev-1-bugramogol-master\Odev_1\obj\Debug\Odev_1.csprojResolveAssemblyReference.cache
